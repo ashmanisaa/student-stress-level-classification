@@ -41,6 +41,13 @@ Model performance on the test dataset:
 
 A **two-stage classification approach** improved the overall accuracy to **~92.7%**.
 
+## Visualization
+
+### Stress Level Distribution
+![Stress Distribution](image/Stress_Distribution.png)
+
+### Fiture Correlation
+![Fiture Correlation](image/Correlation_Fiture.png)
 
 ## Project Information
 Machine Learning and Artificial Intelligence course  
